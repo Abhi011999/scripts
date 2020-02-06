@@ -13,4 +13,4 @@ sudo apt update && sudo apt upgrade
 sudo apt install google-chrome-stable code
 
 # Dev and build tools
-sudo apt install git git-lfs repo python3 ccache gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip python-networkx adb fastboot
+sudo apt install git git-lfs repo python3 openjdk-11-jre openjdk-11-jdk ccache gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip python-networkx adb fastboot htop
